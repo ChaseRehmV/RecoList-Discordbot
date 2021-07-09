@@ -1,5 +1,5 @@
 # discord.py-animelist-bot
-Simple Discord bot written in Python that allows a user's to add, edit, and remove recommendations for any medium of entertainment to other users.
+Simple Discord bot written in Python that allows server members to add, edit, and remove recommendations for any medium of entertainment to other users.
 
 The code is intended to be run in replit.com. There are references/comments in the code where replit functionality is being used. Steps for setting up replit here:
 https://docs.replit.com/getting-started/using-replit-free
